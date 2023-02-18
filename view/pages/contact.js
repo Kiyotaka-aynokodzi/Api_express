@@ -2,7 +2,7 @@ const header = require('../components/header')
 const footer = require('../components/footer');
 const head = require('../components/head')
 
-const contacts = `
+const contact = `
 ${head('Контакты')}
 <body>
     ${header}
@@ -16,4 +16,4 @@ ${head('Контакты')}
 </body>
 </html>
 `
-module.exports = сontacts;
+module.exports = contact;

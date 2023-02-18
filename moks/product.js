@@ -1,7 +1,7 @@
 const products = [
     {
         id: 1,
-        photoSrc : './img/phone.jpg',
+        photoSrc : './img/phone.webp',
         tittle : 'Телефон какой-то',
         desc : '',
         price : 10000,
